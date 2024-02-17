@@ -1,0 +1,13 @@
+Bootloader.c:14:6:BL_SendMessage	112	static
+Bootloader.c:26:11:BL_FetchHostCommand	16	static
+Bootloader.c:65:17:BL_CRC_verfiy	40	static
+Bootloader.c:86:13:BL_Send_ACK	24	static
+Bootloader.c:93:13:BL_Send_NACK	16	static
+Bootloader.c:99:13:BL_Get_Version	32	static
+Bootloader.c:116:13:BL_Get_Help	32	static
+Bootloader.c:141:13:BL_Get_Chip_ID_Number	32	static
+Bootloader.c:160:16:Perform_Flash_Erase	40	static
+Bootloader.c:209:13:BL_Flash_Erase	32	static
+Bootloader.c:231:16:BL_Address_Verification	24	static
+Bootloader.c:249:13:BL_Write_Data	32	static
+Bootloader.c:285:16:FlashMemory_Paylaod_Write	48	static
